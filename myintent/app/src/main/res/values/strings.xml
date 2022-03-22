@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyIntentAppFajar</string>
+    <string name="move_activity">Move Activity</string>
+    <string name="halaman_move_activity">Halaman Move Activity</string>
+    <string name="move_with_data">Move With Data</string>
+    <string name="data_received">Data Received</string>
+    <string name="move_with_object">Move With Object</string>
+    <string name="object_received">Object Received</string>
+</resources>
